@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SKY1001E
 - 👀 I am interested in web application development 
-- 🌱 I'm currently learning three languages(C#, JavaScript, TypeScript) ta a couple of technologies to them are Angular and ASP.NET
+- 🌱 I'm currently learning three languages(C#, JavaScript, TypeScript) and a couple of technologies to them are Angular and ASP.NET
 - 💞️ I want to collaborate in development or employment
 - 📫 How to contact me on LinkedIn: linkedin.com/in/stas/tkachenko-111186250
 
