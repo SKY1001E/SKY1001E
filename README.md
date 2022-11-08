@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKY1001E
+- 👋 Hi, I’m Stanislav Tkachenko
 - 👀 I am interested in web application development 
 - 🌱 I'm currently learning three languages(C#, JavaScript, TypeScript) and a couple of technologies to them are Angular and ASP.NET
 - 💞️ I want to collaborate in development or employment
